@@ -1,0 +1,1 @@
+call GenerateProjectFiles.bat -project="D:\Work\UE_4_14_1\FirstPerson14Cpp\FirstPerson14Cpp.uproject" -game -engine

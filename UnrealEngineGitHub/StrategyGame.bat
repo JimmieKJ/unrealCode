@@ -1,0 +1,1 @@
+call GenerateProjectFiles.bat -project="D:\Work\Unreal\StrategyGame\StrategyGame.uproject" -game -engine

@@ -1,0 +1,1 @@
+call GenerateProjectFiles.bat -project="G:\Docements\Unreal Projects\SolarSystemVR\SolarSystemVR.uproject" -game -engine

@@ -1,0 +1,1 @@
+call GenerateProjectFiles.bat -project="D:\Work\UE_GitHub\swportal\ShooterGame\ShooterGame.uproject" -game -engine
